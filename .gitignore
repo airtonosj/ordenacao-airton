@@ -4,6 +4,7 @@
 *.gcno
 /*.gcov
 gmon.out
+*.exe
 /sort_main
 /sort_profile
 /test_basic
